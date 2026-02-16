@@ -50,12 +50,10 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Initialize Module
+      - name: Install Theme
         run: |
-          if [ ! -f go.mod ]; then
-            hugo mod init awktatter.github.io
-            hugo mod get -u
-          fi
+          mkdir -p themes/hugo-xterm
+          git clone https://github.com/manid2/hugo-xterm.git themes/hugo-xterm
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
