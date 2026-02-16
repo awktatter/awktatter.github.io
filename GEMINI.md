@@ -1,6 +1,11 @@
 # GEMINI.md
 This GitHub website was setup and configured using Gemini 3 Pro.
 
+## Project Environment
+- OS: Mac
+- Shell: Fish
+
+
 ## Project Structure
 - `_brewed/`: Published articles.
 - `_brewing/`: Draft articles.
