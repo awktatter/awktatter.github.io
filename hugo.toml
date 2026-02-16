@@ -1,12 +1,12 @@
 baseURL = 'https://awktatter.github.io/'
 languageCode = 'en-us'
 title = "Srinidhi's bleg"
-theme = 'hugo-xterm'
+theme = 'hugo-theme-yue'
+languageCode = "en"
+hasCJKLanguage = true
 
 [params]
-  # Theme mode: light or dark
-  mode = 'light'
-  
+  author = "Srinidhi"
   description = "Welcome to my site! This is where I share my thoughts and articles."
 
 [menu]
@@ -16,6 +16,6 @@ theme = 'hugo-xterm'
     weight = 1
 
   [[menu.main]]
-    name = "Brewed Articles"
+    name = "Brewed"
     url = "/brewed/"
     weight = 2
