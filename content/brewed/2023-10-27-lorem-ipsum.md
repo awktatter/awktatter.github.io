@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sample Article: Lorem Ipsum"
 date: 2023-10-27 12:00:00 -0000
 categories: sample
