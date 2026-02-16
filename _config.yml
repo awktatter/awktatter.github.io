@@ -9,3 +9,6 @@ collections:
     permalink: /brewed/:path/
   brewing:
     output: false
+
+exclude:
+  - GEMINI.md
