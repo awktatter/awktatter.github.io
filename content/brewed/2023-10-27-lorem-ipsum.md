@@ -1,7 +1,7 @@
 ---
 title: "Sample Article: Lorem Ipsum"
 date: 2023-10-27 12:00:00 -0000
-categories: sample
+categories: ["sample"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
