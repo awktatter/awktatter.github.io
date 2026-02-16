@@ -1,3 +1,3 @@
 ---
-title: "Brewed Articles"
+title: "Brewed"
 ---
