@@ -1,5 +1,4 @@
 baseURL = 'https://awktatter.github.io/'
-languageCode = 'en-us'
 title = "Srinidhi's bleg"
 theme = 'hugo-theme-yue'
 languageCode = "en"
