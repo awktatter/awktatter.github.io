@@ -1,0 +1,11 @@
+title: Awktatter's Site
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections:
+  brewed:
+    output: true
+    permalink: /brewed/:path/
+  brewing:
+    output: false
