@@ -1,6 +1,6 @@
 ---
 title: "Things I'm reading and watching"
-date: 2026-02-17 14:52:00 -0000
+date: 2026-02-17 09:00:00 -0000
 categories: ["currently_reading", "reading_list"]
 ---
 Just capturing the books and article I'm reading and shows I'm watching.
