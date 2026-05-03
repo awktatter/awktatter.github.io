@@ -71,7 +71,9 @@ Too wordy and uses a play on playwriting. I also use figurative language with "i
 And a final one for that day, and one that makes for a solid haiku
 
 > Humid summer night
+>
 > &nbsp;&nbsp;&nbsp;&nbsp; One cat in hiding
+>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; another arrives
 
 ### Newer ones from Hyderabad
@@ -85,5 +87,7 @@ A senryu about musical scale
 A haiku on plants in summer
 
 > Intense summer afternoon
+>
 > &nbsp;&nbsp;&nbsp;&nbsp; plants drooping
+>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; water sprayed.
