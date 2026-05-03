@@ -2,7 +2,7 @@
 title: About Me
 ---
 
- Welcome to my Bleg, a place where I dump my brewed thoughts. I'm Srinidhi, a software engineer by trade, and a hobbyist learner of small and large things. I like technology enough to want to learn all about it, while at the same time hoping that world as a whole can collectively go back to the days of farming. 
+ Welcome to my Bleg, a place where I dump my brewed thoughts. I'm Srinidhi, a software engineer by trade, and a hobbyist learner of small and large things. I like technology enough to want to learn all about it, while at the same time hoping that world as a whole can collectively go back to the days of a big PC and pagers. 
 
  In between going about career as a software engineer, I spent a few years as a Master's student and novice researcher in quantum information @ IIIT-Hyderabad. And even before that, I was a undergraduate student at the sunny and beachy BITS in Goa ☀️🌴.
 
