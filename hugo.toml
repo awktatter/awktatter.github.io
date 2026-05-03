@@ -3,9 +3,10 @@ title = "Srinidhi's bleg"
 theme = 'hugo-theme-yue'
 languageCode = "en"
 hasCJKLanguage = true
+enableGitInfo = true
 
 [params]
-  author = "Srinidhi"
+  dateFormat = "02-January-2006"
   description = "Welcome to my site! This is where I share my thoughts and articles."
 
 [menu]

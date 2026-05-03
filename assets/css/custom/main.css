@@ -1,0 +1,29 @@
+/* Custom CSS to align dates to the right side */
+article {
+    position: relative;
+}
+
+article time, .post-meta, .dates, .post-date {
+    float: right;
+    margin-left: auto;
+    text-align: right;
+}
+
+/* Clearfix for the floating date */
+article::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Flexbox approach as a fallback if the theme uses header containers */
+article header, .post-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+article header h2, .post-item > a {
+    margin-right: auto;
+}
